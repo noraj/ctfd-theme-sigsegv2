@@ -1,3 +1,5 @@
+Compatible until ctfd 2.1.5 only.
+
 ## SigSegv2 CTFd theme
 
 ![](https://i.imgur.com/y5WroUv.png)
